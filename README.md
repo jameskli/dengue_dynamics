@@ -45,6 +45,11 @@
 3. Try different algorithm – use something that is good for time series forecasting
 4. Engineer feature to reflect biology like cumulative precipitation (using past data)
 
+## Credits
+### Group partners
+* Irina Tran
+* Ted Wang
+* Wei Li
 
 
 
