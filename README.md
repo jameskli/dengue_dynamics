@@ -1,7 +1,7 @@
 # Dengue Dynamics
 
 ## Scope
-* Project is used for the DataDriven.Org Dengue Competiton
+* Project is used for the DataDriven.Org Dengue Competiton <https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/>
 
 * Given historical weekly weather data (features) and number of dengue cases (labels) for two cities:
   *San Juan, Puerto Rico (1990-2008)
