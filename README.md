@@ -1,7 +1,7 @@
 # Dengue Dynamics
 
 ## Scope
-* Project efforts towards the DataDriven.Org Dengue Spread Competiton <https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/>
+* Project efforts for the DataDriven.Org Dengue Spread Competiton <https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/>
 
 * Given historical weekly weather data (features) and number of dengue cases (labels) for two cities:
   *San Juan, Puerto Rico (1990-2008)
@@ -16,7 +16,7 @@
 
 ## Challenges
 * `year` and `weekstartdate` features are always permanently increasing. In other words, all training data is historical, and predictions are all in the future.
-* Cannot use of previous rows to feed into current row
+* Cannot use previous rows to feed into current row
 
 ## Approach
 
